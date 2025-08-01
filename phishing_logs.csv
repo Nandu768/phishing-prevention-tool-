@@ -1,0 +1,5 @@
+username,email_content,extensions_detected,domains_detected,spelling_errors,is_phishing,confidence,block_status,timestamp
+employee1,Scanned tax documents payment receipt attached for review ref___YZEcF,None,None,0,0,0.0,Allowed,2025-08-01 16:09:42.460994
+employee1,Scanned tax documents payment receipt attached for review ref___YZEcF with .htm,htm,None,0,1,0.4,Allowed,2025-08-01 16:10:00.883004
+employee1,Scanned tax documents payment receipt attached for review ref___YZEcF with .htm,htm,None,0,1,0.4,Blocked,2025-08-01 16:10:09.957535
+employee1,Mentioned domains and IP addresses have been blocked,None,None,0,0,0.0,Allowed,2025-08-01 16:16:21.414313
